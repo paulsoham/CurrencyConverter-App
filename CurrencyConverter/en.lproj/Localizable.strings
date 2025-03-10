@@ -1,0 +1,31 @@
+/*
+ Localizable.strings
+ CurrencyConverter
+ 
+ //  Created by SOHAM PAUL on 26/01/25.
+ 
+ */
+
+/* Error when the URL is invalid. */
+"invalid_url_error" = "The URL provided is invalid.";
+
+/* Network error description. */
+"network_error" = "Network error: %@";
+
+/* Error when the server cannot be reached. */
+"server_error" = "Server error: Unable to fetch data.";
+
+/* Error when decoding fails. */
+"decoding_error" = "Decoding error: %@";
+
+/* Error message when fetching exchange rates */
+"fetch_exchange_rates_error" = "Failed to fetch exchange rates: %@";
+
+/* UI related description. */
+"enterAmount" = "Enter Amount";
+"usdButtonTitle" = "USD ▼";
+"errorMessage" = "Error";
+"errorMessageAmount" = "Please enter an amount.";
+"errorMessageZeroAmount" = "Amount must be a non-zero number.";
+"errorMessageNoRates" = "No exchange rates available.";
+"okButton" = "OK";
